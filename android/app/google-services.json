@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530483033533",
+    "project_id": "vpnmaster-420ac",
+    "storage_bucket": "vpnmaster-420ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530483033533:android:59d6fab20c754873f0ced4",
+        "android_client_info": {
+          "package_name": "com.free.vpn.connect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530483033533-qa5ei8akqlni7enps1ebo2mnq4a261vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmEJRvm2G7shHPw5FIabKMpP3c5G_UyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530483033533-qa5ei8akqlni7enps1ebo2mnq4a261vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
